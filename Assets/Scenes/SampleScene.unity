@@ -580,6 +580,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: 180-DomeCamera
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: c6438afaf38374f73bfcb09448fcdccd, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: c6438afaf38374f73bfcb09448fcdccd, type: 3}
       propertyPath: m_RootOrder
       value: 16
@@ -1111,6 +1115,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: 180-Domemaster
       objectReference: {fileID: 0}
+    - target: {fileID: 161456, guid: 59ff8426354ae43f49367831676aac52, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 439536, guid: 59ff8426354ae43f49367831676aac52, type: 3}
       propertyPath: m_RootOrder
       value: 17
@@ -1442,14 +1450,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
-  m_LocalRotation: {x: 0.31026593, y: -0.66127807, z: 0.3306469, w: 0.59759444}
+  m_LocalRotation: {x: 0.067085624, y: -0.7366924, z: 0.062452093, w: 0.6699877}
   m_LocalPosition: {x: 52.963562, y: 11.969873, z: -25.236814}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 3
-  m_LocalEulerAnglesHint: {x: 53.913, y: -96.542, z: -1.475}
+  m_LocalEulerAnglesHint: {x: 10.481, y: -95.511, z: -0.883}
 --- !u!1 &1094361056
 GameObject:
   m_ObjectHideFlags: 0

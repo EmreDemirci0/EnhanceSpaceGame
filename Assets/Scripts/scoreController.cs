@@ -33,7 +33,7 @@ public class scoreController : MonoBehaviour
         if (MyScore<0)
         {   //oyun bitti
             //scoreText.text = "X";
-            Time.timeScale = 0f;
+            UnityEngine.SceneManagement.SceneManager.LoadScene("SampleScene");
         }
     }
 }
